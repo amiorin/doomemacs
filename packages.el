@@ -1,0 +1,16 @@
+;; -*- no-byte-compile: t; -*-
+
+(package! git-auto-commit-mode)
+(package! keycast)
+(package! f)
+(package! s)
+(package! ini)
+(package! dash)
+(package! drag-stuff)
+(package! python-black)
+(package! interaction-log :recipe (:host github :repo "amiorin/interaction-log.el"))
+(package! evil-cleverparens)
+(package! expand-region)
+(package! git-link)
+(package! direnv)
+(package! lsp-pyright :pin "327edcea22b27b8ea133aad678123f6d177e247e")
