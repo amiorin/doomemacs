@@ -13,4 +13,3 @@
 (package! expand-region)
 (package! git-link)
 (package! direnv)
-(package! lsp-pyright :pin "327edcea22b27b8ea133aad678123f6d177e247e")
